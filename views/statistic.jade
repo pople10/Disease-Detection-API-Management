@@ -1,0 +1,32 @@
+extends ./template.jade
+block title
+  title AOT APIs
+block svg
+    style body{background-color: #eff3f6!important;}
+    div.row.mx-auto.customWidth.mt-4
+        div.col-lg-8
+            div.card
+                div.card-body
+                    h5.header-title.mt-0.mb-3 Disease data
+                    canvas#DS(height='350' width='540' style='width: 90%; height: 600px!important;')
+        div.col-lg-4
+            div.row
+                div.col-12
+                    div.card
+                        div.card-body
+                            h5.header-title.mt-0.mb-3 Symptoms data
+                            canvas#SP(height='350' width='540' style='width: 90%; height: 600px!important;')
+                div.col-12
+                    div.card
+                        div.card-body
+                            h5.header-title.mt-0.mb-3 Country data
+                            canvas#CT(height='350' width='540' style='width: 90%; height: 600px!important;')
+    .card.w-95.mx-auto.p-3.mt-4.mb-10.customWidth
+        table#tableToManupilate.table.table-striped.table-bordered.dataTable.no-footer(style='width:100%')
+          thead.bg-primary(style='color:white;')
+            tr
+              th(scope='col')
+              th(scope='col') Disease
+              th(scope='col') Symptoms
+              th(scope='col') Log
+    script(src="/public/js/stat.js")

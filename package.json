@@ -1,0 +1,22 @@
+{
+  "name": "PFA",
+  "version": "1.0.0",
+  "description": "PFA PROJECT",
+  "main": "server.js",
+  "scripts": {
+    "test": "node start"
+  },
+  "author": "MOHAMMED AMINE AYACHE && OMAR EZZARQTOUNI && TAYEB HAMDAOUI",
+  "license": "ISC",
+  "dependencies": {
+    "@supercharge/request-ip": "^1.1.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "fetch": "^1.1.0",
+    "jade": "^1.11.0",
+    "node-fetch": "^2.6.1",
+    "pg": "^8.6.0"
+  }
+}

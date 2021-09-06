@@ -1,0 +1,8 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/trackmhr/pfa.trackiness.com"
+PassengerBaseURI "/"
+PassengerNodejs "/home/trackmhr/nodevenv/pfa.trackiness.com/10/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+PassengerAppLogFile "/home/trackmhr/pfa.trackiness.com/logFile.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END

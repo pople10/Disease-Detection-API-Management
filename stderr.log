@@ -1,0 +1,645 @@
+(node:249953) UnhandledPromiseRejectionWarning: error: column "symptomsseparatedbycomma" of relation "statistics" does not exist
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:249953) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:249953) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:249953) UnhandledPromiseRejectionWarning: error: column "symptomsseparatedbycomma" of relation "statistics" does not exist
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:249953) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:249953) UnhandledPromiseRejectionWarning: error: column "symptomsseparatedbycomma" of relation "statistics" does not exist
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:249953) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:249953) UnhandledPromiseRejectionWarning: error: column "symptomsseparatedbycomma" of relation "statistics" does not exist
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:249953) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:271629) UnhandledPromiseRejectionWarning: error: column "symptomsseparatedbycomma" of relation "statistics" does not exist
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:271629) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:271629) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:271629) UnhandledPromiseRejectionWarning: error: column "symptomsseparatedbycomma" of relation "statistics" does not exist
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:271629) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:271629) UnhandledPromiseRejectionWarning: error: column "symptomsseparatedbycomma" of relation "statistics" does not exist
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:271629) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:271629) UnhandledPromiseRejectionWarning: error: column "symptomsseparatedbycomma" of relation "statistics" does not exist
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:271629) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:295770) UnhandledPromiseRejectionWarning: error: permission denied for sequence id_static
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:295770) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:295770) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:295770) UnhandledPromiseRejectionWarning: error: permission denied for sequence id_static
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:295770) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:298418) UnhandledPromiseRejectionWarning: error: syntax error at or near "'SymptomsSeparatedByComma'"
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:298418) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:298418) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:300959) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'ip' of undefined
+    at /home/trackmhr/pfa.trackiness.com/server.js:76:125
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:281:22
+    at param (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:410:3)
+(node:300959) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:300959) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:300959) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'ip' of undefined
+    at /home/trackmhr/pfa.trackiness.com/server.js:76:125
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:281:22
+    at param (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:410:3)
+(node:300959) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:312844) UnhandledPromiseRejectionWarning: error: permission denied for sequence id_static
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:312844) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:312844) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:312844) UnhandledPromiseRejectionWarning: error: permission denied for sequence id_static
+    at Parser.parseErrorMessage (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.stream.on (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    at readableAddChunk (_stream_readable.js:269:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+(node:312844) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+Warning: missing space before text for line 6 of jade file "/home/trackmhr/pfa.trackiness.com/views/statistic.jade"
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express-session'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:3:15)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/trackmhr/pfa.trackiness.com/server.js:34
+  saveUninitialized: fase,
+                     ^
+
+ReferenceError: fase is not defined
+    at Object.<anonymous> (/home/trackmhr/pfa.trackiness.com/server.js:34:22)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setImmediate (timers.js:751:11)
+    at MemoryStore.destroy (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express-session/session/memory.js:95:15)
+    at Session.destroy (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express-session/session/session.js:111:25)
+    at /home/trackmhr/pfa.trackiness.com/server.js:58:21
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:335:12)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setImmediate (timers.js:751:11)
+    at MemoryStore.destroy (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express-session/session/memory.js:95:15)
+    at Session.destroy (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express-session/session/session.js:111:25)
+    at /home/trackmhr/pfa.trackiness.com/server.js:58:21
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:335:12)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setImmediate (timers.js:751:11)
+    at MemoryStore.destroy (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express-session/session/memory.js:95:15)
+    at Session.destroy (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express-session/session/session.js:111:25)
+    at /home/trackmhr/pfa.trackiness.com/server.js:58:21
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:335:12)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setImmediate (timers.js:751:11)
+    at MemoryStore.destroy (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express-session/session/memory.js:95:15)
+    at Session.destroy (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express-session/session/session.js:111:25)
+    at /home/trackmhr/pfa.trackiness.com/server.js:58:21
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/router/index.js:335:12)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:170:12)
+    at done (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1008:10)
+    at Object.exports.renderFile (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:374:12)
+    at View.exports.__express [as engine] (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/jade/lib/index.js:417:11)
+    at View.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/application.js:592:3)
+    at ServerResponse.render (/home/trackmhr/nodevenv/pfa.trackiness.com/10/lib/node_modules/express/lib/response.js:1012:7)
